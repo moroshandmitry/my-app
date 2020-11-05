@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f955b02-b7ff-41a9-9b90-e3fd56ddfcbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technologies.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jowXCvrJOMlrZ0sgOH7gyemngb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,7 +65,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\my-app\src\components\Profile" />
+      <recent name="C:\Users\User\my-app\src\components\Navbar" />
+      <recent name="C:\Users\User\my-app\src\components\Header" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\my-app\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Users\User\my-app\src\components\Profile\MyPosts" />
+      <recent name="C:\Users\User\my-app\src\components\Profile\MyPosts2" />
+      <recent name="C:\Users\User\my-app\src\components" />
       <recent name="C:\Users\User\my-app\src" />
     </key>
   </component>
@@ -47,17 +89,45 @@
       <option name="presentableId" value="Default" />
       <updated>1604483789672</updated>
       <workItem from="1604483795121" duration="1022000" />
-      <workItem from="1604484831810" duration="14128000" />
+      <workItem from="1604484831810" duration="14233000" />
+      <workItem from="1604560417124" duration="5758000" />
+      <workItem from="1604568565107" duration="2610000" />
+      <workItem from="1604574474964" duration="9840000" />
+      <workItem from="1604586820141" duration="2739000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2073" y="125" width="1092" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604484197185">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2073" y="125" width="1092" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604484197185" />
+    <state x="2854" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604574813586">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2854" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604574813586" />
+    <state x="2832" y="0" width="585" height="860" key="find.popup" timestamp="1604566015962">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2832" y="0" width="585" height="860" key="find.popup/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604566015962" />
+    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604584036435">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604584036435" />
   </component>
 </project>
