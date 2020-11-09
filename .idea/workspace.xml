@@ -20,21 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f955b02-b7ff-41a9-9b90-e3fd56ddfcbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technologies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,12 @@
       <workItem from="1604560417124" duration="5758000" />
       <workItem from="1604568565107" duration="2610000" />
       <workItem from="1604574474964" duration="9840000" />
-      <workItem from="1604586820141" duration="2739000" />
+      <workItem from="1604586820141" duration="3422000" />
+      <workItem from="1604661530329" duration="976000" />
+      <workItem from="1604668140104" duration="6433000" />
+      <workItem from="1604916930642" duration="2897000" />
+      <workItem from="1604923958421" duration="3482000" />
+      <workItem from="1604929894517" duration="4559000" />
     </task>
     <servers />
   </component>
@@ -113,6 +115,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3010" y="335" key="#Notifications" timestamp="1604661922238">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="3010" y="335" key="#Notifications/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604661922238" />
     <state x="2073" y="125" width="1092" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604484197185">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
@@ -125,9 +131,9 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2832" y="0" width="585" height="860" key="find.popup/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604566015962" />
-    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604584036435">
+    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604590404678">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604584036435" />
+    <state x="2788" y="181" width="672" height="678" key="search.everywhere.popup/1920.0.1600.860/0.0.1920.1040@1920.0.1600.860" timestamp="1604590404678" />
   </component>
 </project>
