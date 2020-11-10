@@ -7,8 +7,20 @@
     padding: 10px;
 }
 
-.dialogs .dialogsItems .active {
+.dialogs .dialogsItems a {
+    text-decoration: none;
+    color: white;
+    font-family: Ubuntu;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.dialogs .dialogsItems a.activeLink {
     color: gold;
+}
+
+.dialogs .dialogsItems .dialog {
+
 }
 
 .messages {
