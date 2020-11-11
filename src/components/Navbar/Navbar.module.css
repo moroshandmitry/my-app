@@ -1,11 +1,11 @@
 .nav {
     grid-area: n;
-    background-color: burlywood;
+    background-color: #9cfcce;
     padding: 20px;
 }
 
 .item a {
-    color: white;
+    color: #0273b7;
     text-decoration: none;
     font-family: Ubuntu;
     font-size: 1.1em;
@@ -13,5 +13,5 @@
 }
 
 .item a.activeLink {
-    color: gold;
+    color: #ae9404;
 }

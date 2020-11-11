@@ -20,7 +20,6 @@
 }
 
 .dialogs .dialogsItems .dialog {
-
 }
 
 .messages {
@@ -28,5 +27,5 @@
 }
 
 .messages .message {
-
+    color: white;
 }
