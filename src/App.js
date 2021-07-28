@@ -21,7 +21,7 @@ const App = (props) => (
 					path='/dialogs'
 					render={() => <Dialogs state={props.state.dialogsPage} />}
 				/>
-				New Branch
+				New Branch1
 				<Route
 					path='/profile'
 					render={() => <Profile state={props.state.profilePage} />}
